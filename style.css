@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background: linear-gradient(yellow ,pink ) no-repeat;
+    align-items: center;
+    margin-left: 40%;
+    margin-top: 5%;
+    height: 100vh;
+}
+h1{
+    text-transform: uppercase;
+
+}
+
+.check{
+    margin-left: 12%;
+    margin-bottom: 2%;
+}
+
+
